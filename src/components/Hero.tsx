@@ -83,7 +83,7 @@ const Hero = () => {
             <h1 className="section-title text-3xl sm:text-4xl lg:text-5xl xl:text-6xl leading-tight opacity-0 animate-fade-in" style={{
             animationDelay: "0.3s"
           }}>
-              Atlas: Where Code<br className="hidden sm:inline" />Meets Motion
+              Смените вечный хаос<br className="hidden sm:inline" />на порядок за 5 минут
             </h1>
             
             <p style={{
@@ -106,7 +106,7 @@ const Hero = () => {
               // Slightly reduced padding for mobile
               border: '1px solid white'
             }}>
-                Request Access
+                Узнать первыми
                 <ArrowRight className="ml-2 w-4 h-4 transition-transform group-hover:translate-x-1" />
               </a>
             </div>
