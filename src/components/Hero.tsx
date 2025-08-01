@@ -80,9 +80,10 @@ const Hero = () => {
           <div className="w-full lg:w-1/2">
             
             
-            <h1 className="section-title text-3xl sm:text-4xl lg:text-5xl xl:text-6xl leading-tight opacity-0 animate-fade-in" style={{
-            animationDelay: "0.3s"
-          }}>
+            <h1
+              className="section-title text-2xl sm:text-4xl lg:text-5xl xl:text-6xl leading-tight opacity-0 animate-fade-in"
+              style={{ animationDelay: "0.3s" }}
+            >
               Смените вечный хаос<br className="hidden sm:inline" />на порядок за 5 минут
             </h1>
             
